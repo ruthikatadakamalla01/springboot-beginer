@@ -4,3 +4,20 @@ h1{
 p{  color:blue;
     font-size: 30px;
 }
+ 
+ .navbar{
+    border:1px solid #000000;
+    background-color:#333333;
+}
+
+.navbar a{
+    color:#fff;
+    text-decoration:none;
+    padding:10px;
+}
+
+.navbar a:hover{
+    background-color:#ddd;
+    color:black;
+    padding:10px;
+}
